@@ -1,0 +1,31 @@
+{
+  "name": "discord-bot-v14",
+  "version": "1.0.0",
+  "description": "discord bot with d.js v14",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahsw7/discord-bot-v14.git"
+  },
+  "keywords": [
+    "discord-bot"
+  ],
+  "author": "Ahsw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ahsw7/discord-bot-v14/issues"
+  },
+  "homepage": "https://github.com/Ahsw7/discord-bot-v14#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.30.0",
+    "eslint-config-prettier": "^8.5.0",
+    "prefix": "^1.0.0"
+  }
+}
